@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nexport default function Footer() {\n  return /*#__PURE__*/_jsx(\"footer\", {\n    className: \"text-sm tracking-wider text-gray-400 font-semibold text-center py-10\",\n    children: \"DESIGN BY Nauman\"\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

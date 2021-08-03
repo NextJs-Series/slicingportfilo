@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nexport default function SectionTitle({\n  left,\n  children\n}) {\n  return /*#__PURE__*/_jsx(\"h2\", {\n    className: `text-2xl font-semibold font-mono${!left ? \" text-center\" : \"\"}`,\n    children: children\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

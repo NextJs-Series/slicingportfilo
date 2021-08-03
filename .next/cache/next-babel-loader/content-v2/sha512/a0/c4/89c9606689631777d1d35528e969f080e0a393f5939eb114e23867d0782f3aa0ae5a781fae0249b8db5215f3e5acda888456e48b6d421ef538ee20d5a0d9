@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nexport default function Logo() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    className: \"uppercase text-2xl font-semibold tracking-widest text-white\",\n    children: \"Nauman\"\n  });\n}","map":null,"metadata":{},"sourceType":"module"}
